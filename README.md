@@ -17,11 +17,8 @@ This project is a Java-based implementation of the popular 2048 puzzle game, dev
 
 Here are some screenshots of the game in action:
 
-1. Game Start:
 ![Initialization - Rotated](images/menu.png)
-2. In-Progress Game:
 ![Initialization - Rotated](images/game.png)
-3. Game Over Screen:
 ![Initialization - Rotated](images/gameover.png)
    
 
